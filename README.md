@@ -32,12 +32,22 @@ Available on:
 * [Murray Bookchin ~ The Greening of Politics](https://theanarchistlibrary.org/library/murray-bookchin-the-greening-of-politics)
 * [Low Tech Magazine](https://solar.lowtechmagazine.com/)
 * [Institute for Social Ecology](https://social-ecology.org/wp/)
+* [AntiCorporate Anarchist Media ~ Raddle.me](https://raddle.me/wiki/AntiCorporateAnarchistMedia)
 
 ## Tech
 * [Solarnet Hub](https://solarnethub.com/)
 * [Permacomputing](https://permacomputing.net/)
 * [Hundred Rabbits](https://100r.co/site/home.html)
 * [Living Energy Lights](https://livingenergylights.com/)
+* [Appropedia](https://www.appropedia.org/Welcome_to_Appropedia)
+* [DAT Ecosystem](https://dat-ecosystem.org/)
+* [Libre Projects](https://libreprojects.net/#favs=wikipedia,joindiaspora-com,nextcloud,openstreetmap,jamendo,plos)
+* [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology)
+* [Recipes for an Off-Grid Internet](https://anarchosolarpunk.substack.com/p/offgridinternet)
+* [De-Google-ify Internet](https://degooglisons-internet.org/en/)
+* [https://radar.squat.net/en](https://radar.squat.net/en)
+* [Awesome Privacy](https://github.com/pluja/awesome-privacy)
+
 
 
 ## License
