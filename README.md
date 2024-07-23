@@ -4,8 +4,8 @@ A list of ideas, tools, media and more to build and imagine a better and hopeful
 
 Available on:
 
-	* [Github](https://github.com/Julian-1-2-3-4-5/awesome-solarpunk)
-	* [Radicle](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z4TskBPAPW4jw4TJQVPAPK7i5a7ba/tree15c1fd5d8c0a1fe716429a410b25a1e5f96fb1ea)
+* [Github](https://github.com/Julian-1-2-3-4-5/awesome-solarpunk)
+* [Radicle](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z4TskBPAPW4jw4TJQVPAPK7i5a7ba/tree15c1fd5d8c0a1fe716429a410b25a1e5f96fb1ea)
 
 ## General
 
