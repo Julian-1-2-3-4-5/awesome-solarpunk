@@ -17,7 +17,7 @@ A list of ideas, tools, media and more to build and imagine a better and hopeful
 * [Tactical Urbanism](https://tacticalurbanismguide.com/)
 * [CrimethInc](https://crimethinc.com/.)
 * [Permaculture](https://imgur.com/a/101-permaculture-designs-downloadable-imgur-album-aTPS8)
-* [Buy Nothing Projec](thttps://buynothingproject.org/)
+* [Buy Nothing Project](https://buynothingproject.org/)
 * [Village Kit](https://villagekit.com/)
 * [Black Mosquito](https://black-mosquito.org/)
 
