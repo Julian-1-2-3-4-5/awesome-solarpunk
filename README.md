@@ -74,6 +74,7 @@ Available on:
 * [De-Google-ify Internet](https://degooglisons-internet.org/en/)
 * [https://radar.squat.net/en](https://radar.squat.net/en)
 * [Awesome Privacy](https://github.com/pluja/awesome-privacy)
+* [SolarPunk Nerve Center](https://github.com/meekotharaccoon-cell/meeko-nerve-center) - Autonomous revenue organism with 400+ self-tuning engines. 99% of every dollar routes to crisis aid (PCRF, IRC, MSF, UNICEF, Direct Relief).
 
 
 
