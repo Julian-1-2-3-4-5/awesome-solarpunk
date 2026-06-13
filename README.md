@@ -25,6 +25,8 @@ Available on:
 * [Buy Nothing Project](https://buynothingproject.org/)
 * [Village Kit](https://villagekit.com/)
 * [Black Mosquito](https://black-mosquito.org/)
+* [Growers' Collective](https://github.com/vimes1984/coop-harvest)
+
 
 ## Media
 * [Solarpunk Now](https://www.solarpunkcast.net/)
