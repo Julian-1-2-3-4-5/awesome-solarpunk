@@ -70,6 +70,7 @@ Available on:
 * [DAT Ecosystem](https://dat-ecosystem.org/)
 * [Libre Projects](https://libreprojects.net/#favs=wikipedia,joindiaspora-com,nextcloud,openstreetmap,jamendo,plos)
 * [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology)
+* [BioRegional OS](https://github.com/Greenfire-solutions/Bioregional-OS) ~ local-first, open source software for organising a watershed or ecoregion commons
 * [Recipes for an Off-Grid Internet](https://anarchosolarpunk.substack.com/p/offgridinternet)
 * [De-Google-ify Internet](https://degooglisons-internet.org/en/)
 * [https://radar.squat.net/en](https://radar.squat.net/en)
